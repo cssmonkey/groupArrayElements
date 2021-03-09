@@ -22,6 +22,6 @@ npm test
 
 ## Other notes
 
-Normally I'd use tools such as babel or TypeScript but didn't consider this a requirement for this coding challenge.
+Normally I'd use tools such as babel or TypeScript, webpack etc but didn't consider this a requirement for this coding challenge.
 
 The best way to see the code in action is to run the tests.
