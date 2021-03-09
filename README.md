@@ -1,6 +1,6 @@
 # groupArrayElements
 
-This is a code challenge to demonstate some small executable code.
+This coding challenge to demonstates some small executable code.
 
 The groupArrayElements function should:
 - Given an array of length >= 0, and a positive integer N, return the contents of the array divided into N equally sized arrays.
@@ -24,4 +24,4 @@ npm test
 
 Normally I'd use tools such as babel or TypeScript but didn't consider this a requirement for this coding challenge.
 
-The best way to see the code in actions is to run the tests. Normally I'd consider using WebPack or Rollup to output compiled JS files but again, I didn't consider this a requirment for the exercise.
+The best way to see the code in action is to run the tests.
