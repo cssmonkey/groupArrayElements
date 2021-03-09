@@ -1,0 +1,22 @@
+{
+  "name": "grouparrayelements",
+  "version": "1.0.0",
+  "description": "JavaScript code challenge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssmonkey/groupArrayElements.git"
+  },
+  "author": "Sean Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cssmonkey/groupArrayElements/issues"
+  },
+  "homepage": "https://github.com/cssmonkey/groupArrayElements#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
