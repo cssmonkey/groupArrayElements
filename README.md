@@ -1,0 +1,2 @@
+# groupArrayElements
+JavaScript coding challenge
